@@ -1,2 +1,2 @@
 # ics_image
-upload ics image from notes
+upload ics images from notes
